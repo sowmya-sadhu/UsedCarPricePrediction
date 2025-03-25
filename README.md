@@ -10,7 +10,7 @@ To understand what factors make a car more or less expensive.Provide clear recom
 
 ## Visualizations
 - **Bar Plots**: Visualized the vechicles prices based on various parameters .
-- 
+  
 ## Observations for Bar with respect to manufactures 
 - Diesel powered vehicles are priced higher than their gas
 - Comparing type of vechicles EV for GMC ,Jeep are higher price than others.
