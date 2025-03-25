@@ -40,4 +40,4 @@ To understand what factors make a car more or less expensive.Provide clear recom
    ```bash
    Install pre requisite
 4. Run the notebook:
-Open the `prompt_.ipynb` file in Jupyter or any compatible environment.
+Open the `prompt_II.ipynb` file in Jupyter or any compatible environment.
